@@ -1,9 +1,10 @@
+---
 spring:
   profiles:
-    active: local
+    active: prod
 
 ---
 
 spring:
   profiles:
-    active: prod
+    active: local
