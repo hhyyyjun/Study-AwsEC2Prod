@@ -1,4 +1,4 @@
-# openhhyyy
+AWS EC2 prod Practice
 
 AWS ec2 서버를 활용한 운영 반영
 
