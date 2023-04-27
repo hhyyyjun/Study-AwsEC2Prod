@@ -9,6 +9,6 @@ public class OpenController {
     @GetMapping("/home")
     public String main(){
 
-        return "안녕하세요. 서버 테스트 입니다.";
+        return "안녕하세요. 서버 테스트 입니다.d";
     }
 }
